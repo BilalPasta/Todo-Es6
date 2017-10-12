@@ -1,0 +1,92 @@
+.centre{
+    width: 80%;
+    margin-left: 2%;
+    /*margin: 0 auto;*/
+}
+
+#App{
+
+    text-align: center;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: #258d00;
+    width: 70%;
+    margin: 0 auto;
+       border-radius: 15px 2px 15px 2px;
+       padding: 0.5%;
+       /*transition: 1s;*/
+
+
+}
+#todologo{
+    display: inline-block;
+    margin-top: 5px;
+    text-align: center;
+    width: 25%;
+    font-size: 13px;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 2px;
+    margin-right: 48%;
+  border: 2px;
+    border: 2px #258d00  solid;
+    border-radius: 15px 2px 15px 2px;
+}
+#todolog{
+    display: inline-block;
+    margin-top: 5px;
+    text-align: center;
+    width: 25%;
+    font-size: 13px;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+    text-indent: 0px;
+    padding: 2px;
+  border: 2px #258d00 solid;
+    border-radius: 15px 2px 15px 2px;
+
+}
+/*#demo{
+  
+    background-color: white;
+    border-left: 4px solid #258d00;
+    border-right: 4px solid #258d00;
+    border-top: 0px white;
+ 
+}*/
+h1{
+    /*float: none;*/
+    text-align: center;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: #258d00;
+    width: 100%;
+    margin: 0 auto;
+       border-radius: 15px 2px 15px 2px;
+       padding: 0.5%;
+       /*transition: 1s;*/
+}
+.centre{
+    width: 80%;
+    margin: 0 auto;
+}
+.BG{
+        background-color: #258d00;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 18px;
+        color: white;}
+img{
+    max-width: 100%;
+    
+}
+.centr{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.topmargin{
+    margin-top: 10%;
+}
+.btn1{
+    width: 139px;
+    margin: 0 auto;
+    /*background-color: red;*/
+}
